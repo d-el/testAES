@@ -1,0 +1,3 @@
+[submodule "lib/aes/tiny-AES-c"]
+	path = lib/aes/tiny-AES-c
+	url = https://github.com/kokke/tiny-AES-c.git
